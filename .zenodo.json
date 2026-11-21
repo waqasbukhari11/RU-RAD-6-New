@@ -1,0 +1,35 @@
+{
+  "title": "RU-RAD-6: Roman Urdu radicalization-related discourse markers (labels, annotation records, model outputs and code)",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "description": "Labels-only release of the RU-RAD-6 resource: 1,520 Roman Urdu social-media posts annotated for six discourse markers, with the frozen train/validation/test partition, annotation guidelines, per-annotator sheets and adjudication records without post text, prompts, model outputs, per-post scores, analysis results and code. Post text is not redistributed; it can be reconstructed from the public source datasets RUHSOLD and RU-HSD-30K with code/rehydrate.py, subject to their terms. The labels describe textual expressions and must not be used to profile individuals, infer intent or support enforcement.",
+  "creators": [
+    {
+      "name": "Shah, Syed Muhammad Waqas",
+      "affiliation": "The Islamia University of Bahawalpur"
+    },
+    {
+      "name": "Arshad, Humaira",
+      "affiliation": "The Islamia University of Bahawalpur"
+    },
+    {
+      "name": "Mohmand, Muhammad Ismail",
+      "affiliation": "Istanbul Atlas University"
+    },
+    {
+      "name": "Chaudhary, Usman Moyud Din",
+      "affiliation": "The Islamia University of Bahawalpur"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "Roman Urdu",
+    "radicalization-related discourse",
+    "multi-label classification",
+    "annotation agreement",
+    "label-policy sensitivity",
+    "large language models"
+  ]
+}
