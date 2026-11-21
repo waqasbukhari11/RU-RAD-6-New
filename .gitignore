@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# never commit files that contain post text
+*_TEXT.csv
+*CONTAINS_TEXT*
+gold_corpus*.csv
+RUHSOLD/
+RUHSD30K/
+outputs/
