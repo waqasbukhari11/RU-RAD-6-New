@@ -1,0 +1,23 @@
+{
+  "model": "xlm-roberta-base",
+  "smoke": false,
+  "seed": 42,
+  "epochs": 15,
+  "lr": 2e-05,
+  "maxlen": 128,
+  "routines": [
+    "A",
+    "B"
+  ],
+  "python": "3.13.16",
+  "torch": "2.14.1+cu130",
+  "transformers": "5.22.1",
+  "datasets": "4.8.5",
+  "sklearn": "1.6.1",
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "minutes": 181.6,
+  "note": "B reconstructed from the supplement description; GPU kernels are not bit-deterministic."
+}

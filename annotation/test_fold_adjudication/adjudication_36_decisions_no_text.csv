@@ -1,0 +1,37 @@
+case_id,tweet_id,round,indicator,a1,a2,decision,side,reason (one line),adjudicator,date
+C01,rua404a2b2f0,Mining (v1.1 FINAL),grievance,1,0,Present,annotator1,Framed as opressed,Iqra Iqbal Khan,2026-11-12
+C02,ru68954d69da,Full-run (canonical),glorification,0,1,Present,annotator2,sectarian violence is present in post,Iqra Iqbal Khan,2026-11-12
+C03,ru772413ddb2,Solo2 (re-labelled),grievance,0,1,Present,annotator2,The in group is framed as wronged,Iqra Iqbal Khan,2026-11-12
+C04,ru68954d69da,Full-run (canonical),mobilization,0,1,Present,annotator2,Post urges to take contentious collective action,Iqra Iqbal Khan,2026-11-12
+C05,ru9c855f214a,Solo2 (re-labelled),grievance,0,1,Absent,annotator1,merely blaming without a victim frame,Iqra Iqbal Khan,2026-11-12
+C06,ru4c25014b46,Mining (v1.1 FINAL),mobilization,0,1,Present,annotator2,millitant call to fight is present,Iqra Iqbal Khan,2026-11-12
+C07,ruf24c8a4493,Solo2 (re-labelled),grievance,0,1,Present,annotator2,Framed as opressed and denied justice element is present in post,Iqra Iqbal Khan,2026-11-12
+C08,ru832d2d67dd,Full-run (canonical),ig_outgroup,0,1,Present,annotator2,includes calling a group of enemy ,Iqra Iqbal Khan,2026-11-12
+C09,ruafe8a758d1,Mining (v1.1 FINAL),mobilization,0,1,Present,annotator2,Call to a political leadership to take contentious action ,Iqra Iqbal Khan,2026-11-12
+C10,ru7f2a57200c,Solo2 (re-labelled),threat,0,1,Present,annotator2,Warning of harm is present in post,Iqra Iqbal Khan,2026-11-12
+C11,ru819d22c470,Solo2 (re-labelled),ig_outgroup,1,0,Present,annotator1,"according to guideline , division into virtuous  us  and an opposed element is present",Iqra Iqbal Khan,2026-11-12
+C12,ru11a37c6913,Mining (v1.1 FINAL),glorification,1,0,Absent,annotator2,The content only reports the violence without endorsing it ,Iqra Iqbal Khan,2026-11-12
+C13,ru1bc2625f11,Solo2 (re-labelled),grievance,0,1,Present,annotator2,"The content frames the in-group or a sympathetic group as collectively wronged, persecuted, and deprived of justice.",Iqra Iqbal Khan,2026-11-12
+C14,ru4fcf166eb0,Mining (v1.1 FINAL),grievance,1,0,Present,annotator1,The post content shows the injustice a collective victimhood is present.,Iqra Iqbal Khan,2026-11-12
+C15,ruf75d9ff5b0,Solo2 (re-labelled),ig_outgroup,1,0,Present,annotator1,"The post explicitly delegitimizes a named group (Taliban) as representatives of another group (Afghan public), establishing an us-versus-them distinction",Iqra Iqbal Khan,2026-11-12
+C16,rub047b848b3,Solo2 (re-labelled),dehumanization,1,0,Absent,annotator2,post only Calls a group immoral or corrupt that is not sufficient to qualify as dehumanization under the given rule.,Iqra Iqbal Khan,2026-11-12
+C17,ruf75d9ff5b0,Solo2 (re-labelled),dehumanization,1,0,Absent,annotator2,"According to given rule only criticism does not qualify the for ""dehumanization""  ",Iqra Iqbal Khan,2026-11-12
+C18,ru7f2a57200c,Solo2 (re-labelled),glorification,0,1,Absent,annotator1,"according to rul,post Does NOT meet the glorification criterion.",Iqra Iqbal Khan,2026-11-12
+C19,rue0b66e97c5,Mining (v1.1 FINAL),dehumanization,1,0,Absent,annotator2,Post does not meet dehumanization criteria,Iqra Iqbal Khan,2026-11-12
+C20,ru83af57dd33,Mining (v1.1 FINAL),ig_outgroup,1,0,Present,annotator1,"The post establishes an explicit in-group versus out-group conflict through group labeling, confrontation, and opposing group loyalties.",Iqra Iqbal Khan,2026-11-12
+C21,ru4b9c161141,Mining (v1.1 FINAL),grievance,0,1,Present,annotator2,post expresses concern or solidarity with Muslims,Iqra Iqbal Khan,2026-11-12
+C22,ru056d70f12d,Mining (v1.1 FINAL),ig_outgroup,0,1,Absent,annotator1,"Criticism of an individual's behaviour, even with abusive language, is insufficient to establish group-based us-versus-them framing",Iqra Iqbal Khan,2026-11-12
+C23,rue0fd234184,Solo2 (re-labelled),dehumanization,1,0,Absent,annotator2,vulgar humiliation or political mockery alone is not dehumanization under the given rule.,Iqra Iqbal Khan,2026-11-12
+C24,ru89e28562d8,Solo2 (re-labelled),mobilization,1,0,Absent,annotator2,Raising awareness or expressing alarm about an issue is not sufficient for mobilization without an explicit call for collective action.,Iqra Iqbal Khan,2026-11-12
+C25,ru0c0413f70f,Solo2 (re-labelled),grievance,0,1,Absent,annotator1,Fear of potential conflict or its consequences is not sufficient to establish collective grievance under the given rule,Iqra Iqbal Khan,2026-11-12
+C26,ru72f08dd721,Solo2 (re-labelled),ig_outgroup,1,0,Present,annotator1,The post explicitly frames an entire national group as undesirable and advocates collective exclusion by the rest of the world,Iqra Iqbal Khan,2026-11-12
+C27,ru1df47dd235,Solo2 (re-labelled),grievance,0,1,Absent,annotator1,Portraying the in-group as isolated or outnumbered is not sufficient for collective victimhood without an explicit injustice or oppression narrative.,Iqra Iqbal Khan,2026-11-12
+C28,ru832d2d67dd,Full-run (canonical),mobilization,0,1,Present,annotator2,The post implies that the audience should respond forcefully to an enemy,Iqra Iqbal Khan,2026-11-12
+C29,rub46f17703d,Solo2 (re-labelled),grievance,0,1,Absent,annotator1,Blaming or insulting an opposing group is not sufficient to establish collective victimhood under the given grievance rule,Iqra Iqbal Khan,2026-11-12
+C30,ru832d2d67dd,Full-run (canonical),threat,0,1,Absent,annotator1,A demand for a strong response is not automatically an explicit threat of harm. Additional context would be needed to establish threatening intent.,Iqra Iqbal Khan,2026-11-12
+C31,ruca7048ac27,Mining (v1.1 FINAL),glorification,1,0,Absent,annotator2,Criticizing or mocking supporters of a militant group is not the same as glorifying that group or its violence.,Iqra Iqbal Khan,2026-11-12
+C32,rue82acb9b45,Mining (v1.1 FINAL),dehumanization,1,0,Present,annotator1,"The post uses a group-wide evil-being metaphor to deny the targeted population ordinary moral standing, rather than merely criticizing specific behaviour.",Iqra Iqbal Khan,2026-11-12
+C33,ru72f08dd721,Solo2 (re-labelled),mobilization,1,0,Present,annotator1,The post advocates collective action by an international audience to boycott and exclude a national group.,Iqra Iqbal Khan,2026-11-12
+C34,rub047b848b3,Solo2 (re-labelled),ig_outgroup,1,0,Present,annotator1,Potential in-group vs. out-group framing.,Iqra Iqbal Khan,2026-11-12
+C35,ru3134033638,Solo2 (re-labelled),glorification,0,1,Present,annotator2,Meets the glorification criterion through justification of retaliatory sectarian violence.,Iqra Iqbal Khan,2026-11-12
+C36,ru081c87e476,Solo2 (re-labelled),grievance,0,1,Present,annotator2,"The content frames the in-group or a sympathetic group as collectively wronged, persecuted, and deprived of justice.",Iqra Iqbal Khan,2026-11-12

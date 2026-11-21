@@ -1,0 +1,10 @@
+step,posts
+RUHSOLD coarse (task 1) after text de-dup,9991
+RU-HSD-30K raw rows,30000
+Concatenated,39991
+After dropping texts < 8 characters (normalised),39700
+After de-dup on normalised text = pool,39458
+  of which RUHSOLD,9983
+  of which RU-HSD-30K,29475
+Pool posts passing keyword relevance filter (>=1 cluster),6677
+Pool posts with >=1 indicator-bearing cluster,3842

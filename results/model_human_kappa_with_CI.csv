@@ -1,0 +1,37 @@
+model,indicator,kappa,ci_lo,ci_hi
+TF-IDF,ig_outgroup,0.293,0.106,0.462
+TF-IDF,dehumanization,0.147,0.008,0.308
+TF-IDF,grievance,0.296,0.032,0.534
+TF-IDF,mobilization,0.32,-0.013,0.656
+TF-IDF,threat,0.482,0.129,0.793
+TF-IDF,mean,0.308,0.183,0.404
+XLM-R,ig_outgroup,0.301,0.127,0.464
+XLM-R,dehumanization,0.208,-0.02,0.565
+XLM-R,grievance,0.373,0.072,0.619
+XLM-R,mobilization,0.32,-0.013,0.657
+XLM-R,threat,0.517,0.147,0.793
+XLM-R,mean,0.344,0.206,0.453
+MuRIL (rerun),ig_outgroup,0.242,0.07,0.411
+MuRIL (rerun),dehumanization,0.0,0.0,0.0
+MuRIL (rerun),grievance,-0.053,-0.075,-0.03
+MuRIL (rerun),mobilization,0.019,-0.028,0.066
+MuRIL (rerun),threat,-0.008,-0.021,0.0
+MuRIL (rerun),mean,0.04,0.003,0.077
+Qwen 7B,ig_outgroup,0.063,-0.065,0.204
+Qwen 7B,dehumanization,0.042,-0.016,0.107
+Qwen 7B,grievance,0.067,-0.041,0.19
+Qwen 7B,mobilization,0.078,-0.046,0.223
+Qwen 7B,threat,0.408,0.11,0.649
+Qwen 7B,mean,0.132,0.059,0.198
+Llama 8B,ig_outgroup,0.137,0.084,0.196
+Llama 8B,dehumanization,0.063,-0.026,0.172
+Llama 8B,grievance,0.042,-0.005,0.089
+Llama 8B,mobilization,0.167,0.039,0.306
+Llama 8B,threat,0.254,0.052,0.451
+Llama 8B,mean,0.133,0.073,0.19
+Qwen 72B,ig_outgroup,0.282,0.112,0.444
+Qwen 72B,dehumanization,0.138,0.015,0.291
+Qwen 72B,grievance,0.185,0.081,0.29
+Qwen 72B,mobilization,0.211,-0.034,0.45
+Qwen 72B,threat,0.224,0.098,0.358
+Qwen 72B,mean,0.208,0.134,0.276

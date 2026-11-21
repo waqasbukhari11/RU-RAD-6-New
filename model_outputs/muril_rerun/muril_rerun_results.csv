@@ -1,0 +1,6 @@
+indicator,train_pos,val_pos,test_pos,best_epoch,val_ap,threshold,val_f1_at_threshold,test_ap,test_precision,test_recall,test_f1,test_predicted_pos,test_score_max,test_score_mean,macro_f1_five_indicators
+ig_outgroup,140,25,34,6,0.6142,0.25,0.6341,0.3996,0.75,0.1765,0.2857,8,0.7462,0.2442,0.0858
+dehumanization,20,4,6,7,0.0346,0.05,0.0404,0.1208,0.0264,1.0,0.0515,227,0.1532,0.1526,
+grievance,57,10,11,6,0.2356,0.44,0.25,0.0444,0.0,0.0,0.0,12,0.4465,0.3734,
+mobilization,43,8,9,5,0.1895,0.35,0.1138,0.0537,0.0492,0.6667,0.0916,122,0.3593,0.3512,
+threat,26,5,8,8,0.5993,0.19,0.5714,0.1337,0.0,0.0,0.0,1,0.5451,0.1833,

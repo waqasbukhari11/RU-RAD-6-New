@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite the article and this repository."
+title: "RU-RAD-6: Roman Urdu radicalization-related discourse markers (labels, annotation records, model outputs and code)"
+type: dataset
+version: 1.0.0
+date-released: "2026-11-21"
+license: [CC-BY-4.0, MIT]
+authors:
+  - family-names: Shah
+    given-names: Syed Muhammad Waqas
+    affiliation: "Department of Computer Science, The Islamia University of Bahawalpur, Pakistan"
+  - family-names: Arshad
+    given-names: Humaira
+    affiliation: "Department of Computer Science, The Islamia University of Bahawalpur, Pakistan"
+  - family-names: Mohmand
+    given-names: Muhammad Ismail
+    affiliation: "Department of Computer Engineering, Istanbul Atlas University, Türkiye"
+    email: muhammad.mohmand@atlas.edu.tr
+  - family-names: Chaudhary
+    given-names: Usman Moyud Din
+    affiliation: "Department of Computer Science, The Islamia University of Bahawalpur, Pakistan"
+repository-code: "https://github.com/USERNAME/RU-RAD-6"   # TODO replace
+# doi: 10.5281/zenodo.XXXXXXX                              # TODO add after the Zenodo release
+keywords: [Roman Urdu, radicalization-related discourse, multi-label classification, annotation agreement, label-policy sensitivity, large language models]

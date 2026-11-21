@@ -1,0 +1,5 @@
+system,macro_F1_5,SD_across_repeats,range_across_repeats,CI_lo,CI_hi,ig_outgroup,dehumanization,grievance,mobilization,threat
+"TF-IDF, 870-post folds only",0.281,0.014,0.266-0.304,0.235,0.321,0.424,0.051,0.233,0.349,0.347
+"TF-IDF, + 650 single-annotator posts",0.324,0.018,0.306-0.347,0.279,0.363,0.499,0.085,0.341,0.31,0.386
+Qwen2.5-7B zero-shot,0.159,,,0.117,0.196,0.136,0.074,0.16,0.186,0.24
+Qwen2.5-7B few-shot,0.229,,,0.187,0.268,0.31,0.102,0.212,0.152,0.37

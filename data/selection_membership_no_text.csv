@@ -1,0 +1,1521 @@
+tweet_id,split,source,full_run_1000,found_in_ruhsold_train_7208_lower_bound,tweet_id_reproduces_from_text,fold,in_ruhsold_full,source_inferred
+ru832d2d67dd,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5665dcba89,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufcd97d5570,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru27c2a5fa85,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru685e2ed62d,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubfd499c303,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub6c6f58023,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6d478c6794,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua5de16ac86,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1650440051,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6b8d5c7f99,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru50dd135fe0,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru29ff27d127,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5fa2642e7f,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru9d7ebc0c45,iaa,double+adjudicated,True,False,True,val,True,RUHSOLD
+ru9bfced744e,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru32067e8bdd,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru25019df289,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub9bbaee337,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5d498aeedf,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub4484f0457,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+ruc096a767f6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru97c931c60d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf388a30505,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2a00de0218,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru95ca7090fe,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6017c51d32,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud18529e0d2,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rued924afdac,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue7ca04a346,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud9023f5a5a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue8b1fc7d13,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru575578b1aa,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru96a6ca6536,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2cc0168317,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru049ed63847,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru39d9e1c645,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud4064a6546,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc6e89baf97,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5d8581e5a6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufeb61c336a,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4512082f8f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc2bb202b49,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3f8135b080,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru92fdcac801,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8b689e320a,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud580cabaea,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rub04db1dc91,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru48d7f73c67,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua583533703,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubbd9b6fb03,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rub1d9481526,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru197a8adbf7,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3bf69619f4,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf08dad8858,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubc0a79d361,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue40ce2900f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru10fa4e2dc0,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruef01711a4f,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudac55b099e,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ruf156d122a6,iaa,double+adjudicated,True,True,True,val,True,RUHSOLD
+ru194c289f77,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru927b46b489,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5654915297,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru00a849ac17,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3f96e2555c,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1fe3501730,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1d73f2e6df,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue990f258a6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud7fbb85735,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru683f8c2b54,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruda787a1ee0,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3c3b7e8d29,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru18a40b61cc,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufc382c3a72,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4243ecc367,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ruc46ba02a5f,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rubb6c6b7d0f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru33a4fef3c1,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru35b3dfe5ea,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru1eb0ac9d85,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruef486cf01f,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ruc5f0daf41b,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru93a0e642aa,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0c271fa506,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0c857faba5,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua4367241c3,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3f9cd3bbb2,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruba51d0d126,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9de6feda06,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru91c4846600,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruab409fbb72,iaa,double+adjudicated,True,True,True,val,True,RUHSOLD
+rud96f849f01,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru236c2217d0,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru133f46ae1e,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruca4519b810,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru68b35d727b,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru05f8c74c49,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6df024e498,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruade6a53ecc,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub429d14dca,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru84cc463591,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub277fc833b,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2f24cca41e,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru78b9c8ed8c,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9638967d85,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru544d1d93f5,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru51865f25dd,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru716d7f844f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru39a0fbbf93,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub7f4bf0581,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru8cc7280f21,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucf776fcc4d,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru12dc73bf7a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufc70b52bf7,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru4c4a4c0f16,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3fbd70c93a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubf0f3b5bf2,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3214c1412e,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7cbd75d993,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rua6e9f85ccf,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru87c39f2995,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru54147aba1b,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue5805f22a6,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru68954d69da,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5f0965cf7d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6a309e22d1,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru73031520a6,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub0c05a623b,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2e8748c401,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru689ece7d89,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9a21aea2d8,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4bdf21a390,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1e0d3f42be,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru41be0a9a60,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+ru7ae0466a97,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+rub5ba5301c8,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua3e5945208,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub8c176cfad,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubca26c4601,iaa,double+adjudicated,True,True,True,val,True,RUHSOLD
+ru54e8c8ba5a,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru0043ab18da,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru45faa86bf9,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud34ca9607e,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rub95730f8cd,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru8dc03cd2b4,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaa04c7abb1,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua3df3d8b63,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0b3560e91e,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5fa6aebe94,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4a77a9761a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru970abd4ac4,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c19fc2b45,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru15d7273dab,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueef3ececf2,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubd4a7929b2,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru77fd31c427,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5ae9479bb0,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru30cabf506b,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc6ba8928d5,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7b9e64071f,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8b7a0cdbe6,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6f2962e3bd,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8d48ac014c,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28d1299ce6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8754731a3c,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru098c4b39eb,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4744565a1e,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru4d3174d750,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4a21e13f4f,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+rue70acd4539,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5aa61986f2,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru5957970473,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru34936e03b2,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubeeb1bd505,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru762874f7a6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru027e394406,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ruff9f3ef2fc,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0def98500c,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rube4c789f14,iaa,double+adjudicated,True,True,True,val,True,RUHSOLD
+ru4589b1c3a2,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5f81dc1514,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucf2b7a7205,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru8bdba57013,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru266e64d635,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7ec212a66d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufec7338626,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rua211cfdf26,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2451cc1bde,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufdc453d142,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru86ed9f2bcd,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rucc2bb348b3,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru3a6fff292e,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru5c891f10a8,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudc59034c6c,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru676619cde3,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubc19beb753,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru5ec636ff9d,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+ru4ffa9b9fb9,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rufd39c033f6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru19bd812954,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru78527c6931,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru309a9d463a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru69c783ea96,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4f2108ab01,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru32a7faeedb,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru5ce88cd224,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru796c41040d,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru6a091cc17f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru97cfe17238,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru824dab65fa,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf79c907880,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8433eb733f,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua89a9f00c3,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9739b6f904,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6a113c2f73,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rue923bdc081,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+rua5138b7d49,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9940ddc3ed,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rua9d0b6937b,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+rue01cbd231f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru776dc6a355,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+rube07728a8d,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ruea701d2522,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub92165a5e6,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6d9e2f79d6,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2ffa96a1e9,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2f41287768,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru25bfddad32,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf4dc50773c,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru926a41047d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru17f5689868,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru324bd3a812,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3770073890,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c1ef342e3,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf0502de154,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud9c3558d77,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+rua70bb6fad5,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1f5db328fb,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8a88a1f893,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5cf22ea56d,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru04888cb367,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru5a8cba8112,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4ddec15930,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubfc9d34aaf,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru601295aeaa,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua5dff6b2da,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+ru854d2f4aa5,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub33f203376,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue78105216d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub61149c6ca,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru33f87ebb21,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru17598c94cd,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru3862e684c5,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc38eba950a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2f0e4c868e,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru9b43ddde97,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaf05681485,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru885aa7b23f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru02ee651b2d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua76bce2ea4,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5e3f066305,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruca5cf66061,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruad0c6f883f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf324d26d9b,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0d059e9a71,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru27577a856d,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru7b4d948c52,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue6efa64022,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufa50597223,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru86570b379e,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru91fcca0b91,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rua9e4361639,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru77a9db2787,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru36245a4947,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru795c5aa5dc,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru20b5157cb9,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru70c9c804a6,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf0e938c118,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2c57d355c0,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru4be173283e,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5fcd8f5e64,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru098a138d41,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4d37dbcfc7,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf4db17c427,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ruc338e6d0bd,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2b99af761b,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub8bfcceabd,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+ru1df2298158,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud5ab980d51,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru878f52085d,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucfffc3017b,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru362c302ab8,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru286a7be74e,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1d31046686,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5d9a3d79b0,iaa,double+adjudicated,True,False,True,test,True,RUHSOLD
+rud9072f0c1d,iaa,double+adjudicated,True,False,True,val,True,RUHSOLD
+ru56a93bed5d,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru14abd69cd2,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0f53f30303,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue8c5283ff8,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf39c09096b,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rude5a431c17,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru809eba57fe,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru33160e2562,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru787c3243a2,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru194045459a,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf7c222667d,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru7f05eea102,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue0fcdd57a2,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru602cf0ea29,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru435e2dc609,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ruf76f024387,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru89d16672e6,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucd4cba0348,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rude0ff93df3,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf129df2fba,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ruc72641bd71,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru195c8018b5,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rub6b77ded89,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6be73a95e9,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru490713563d,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+ru94a97e7a85,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru98e5c72aed,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru95043b7881,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+rufde5b41fae,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9d10dd2556,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud221e483a2,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufecc83d0b1,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru17816184d5,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6edc401377,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c53eb5676,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3a31bbc1ec,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc68b8d32fd,iaa,double+adjudicated,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc46498186b,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0b3edb2943,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8030aced8f,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6168c99a39,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua67f7749a0,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru5e3b457b2e,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru792f71a955,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud7c34c5995,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru456ce86b0f,iaa,double+adjudicated,True,False,True,train,True,RUHSOLD
+ru7e1d9d6aef,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruedb18ba01d,iaa,double+adjudicated,True,True,True,val,True,RUHSOLD
+ru42dc416ae0,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0dbe75d2f8,iaa,double+adjudicated,True,True,True,train,True,RUHSOLD
+ru1bab4393e3,iaa,double+adjudicated,True,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1cdca1a7b1,iaa,double+adjudicated,True,True,True,test,True,RUHSOLD
+rudbf0c8f287,iaa,double+adjudicated,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru107bf4e08f,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua6d19367c2,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru9e0ca6d88d,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue1617c1fc8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4a599dc50d,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud0fdb934bd,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucf8407417d,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru058c74821c,solo1,annotator1,True,False,True,val,True,RUHSOLD
+ru73dea263b7,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud4d1145e49,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueabc3ef1ad,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub98ad20325,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua6d2381537,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ruf1618f0c2c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru38f7f8ef96,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub324a64a9d,solo1,annotator1,True,False,True,val,True,RUHSOLD
+ruc20420391f,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru797a7fbb0b,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rudc29a832b2,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru4deb53f836,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4b21a25a65,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rude87311257,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru7ed0256e6d,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru62c1188eaa,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru0ea63de2c8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru783aac299e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4b66eeb80e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruafb2e2c37a,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru64f5c9a01c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf2a28e6c02,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub2d4d6a6d0,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua723414481,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruec16e83cd9,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3da9893083,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru242ee93919,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru9927dbea4f,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ruf828ad3b18,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucc667ea0c8,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rufafaf0f6f2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2dedd1ad43,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruace02a1983,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudd207eef71,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5367d2e8cf,solo1,annotator1,True,False,True,val,True,RUHSOLD
+rua4e8094f6f,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rub0168e5522,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru90ab229669,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru980f90abdd,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6b0ea796cb,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc7a925f9a9,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf34db69e92,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru168751601e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2014755545,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9fde85050f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9fa7672a7b,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub0a75fd41d,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru2b04bb0ca4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue6804a6559,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua041572da6,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru732f9bd698,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8d8ac460dc,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1531e97355,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru123d0be8ce,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubfa1ada5dc,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruea921905a5,solo1,annotator1,True,True,True,val,True,RUHSOLD
+ru382553045d,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua0c9145d2b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf84c52792f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufda8d8a320,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rueae3f4a596,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubd040350cd,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru531fd35ccb,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3c0e0cf157,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru6fd6cda71a,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru6ed450c88a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9675dfabe3,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rub28543d18b,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ruc2eefc155b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub9fe01a7d1,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1ccbb9ae10,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue1ad1b3235,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruecc3045dd8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub0a96b35d2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c46f41afe,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru87bbe5ada2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub08208e359,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf6f1da46bc,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1607c52f97,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4e3fc57263,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0326481e44,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru964089c9e4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7ab54ed883,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28a0876ee4,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru66fc912f0a,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3c7df9038e,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucaff5ae9d0,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0612e10990,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudeeb7cd710,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru67f24c9953,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru498e9c9518,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua2403e11cf,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruba724c0b88,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7b592e3921,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru63f7e35eb0,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru1e1c9440f2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruee38fe77f5,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru13b63d62e4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru43bcc7a53d,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3a65dfa051,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufebadb7796,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru39ced5907f,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru99e32060b7,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8dc7d077cb,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3c47e0e72e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7069bef777,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruabf79525f4,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru35863dd028,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru97a2f71f19,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1b9a6f8493,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru444226db10,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rua77902d104,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8a3062b127,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf2da49bbba,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru81d7d96413,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru846eef9c11,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub3e9a728a6,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru77b0b0eb10,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7a592e96f1,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruab77084e5a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru56fa357235,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9756e0e36b,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rufaa366e0ef,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3cca7048f9,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufaa11dfc4b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruddf6a1fe83,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4798a36142,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ruc8a724bd8b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru93be057c00,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru365a531687,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru56ac087322,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru131fdcb322,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud683f0f677,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8e5b33f979,solo1,annotator1,True,True,True,val,True,RUHSOLD
+ru68f174919f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru00b88d75f9,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rue6d6076e53,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru039033b9bb,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru640949d8d3,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2918ea3b7c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua566b4ded5,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc64caf0ccd,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1cf8329915,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2502855f71,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru33851cc1be,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud546828ff1,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruadd25344fd,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rued529cfdd7,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6bc811364b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue9a6ff8229,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru0f05582266,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudd5bbb4c1b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru12e6b143e4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru89cd1dc8df,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru5b9af92d62,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruddab88ce71,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaa42bd0b73,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf70281ef25,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru0957e5094d,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4155526a68,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru47072514ed,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru15d8c8d9cb,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua0a9019798,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru860636bd97,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3257757bc3,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudc55fad48d,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru9cfbe49e2a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua846859191,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rubb144d29e8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue20527fe8a,solo1,annotator1,True,True,True,val,True,RUHSOLD
+rucdb4736b27,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru97883c33c2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5cde922fae,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf58f37d111,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru43dc4e42f1,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5e0a355970,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubdcbc6e056,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc1a91aaa93,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaade988e4b,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc1a6c76a41,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rucb184feef7,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf6f101ef8e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru494bb6b566,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru55b2fcf0e3,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua16a73f3e6,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru61fdd2edba,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf99969ab50,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua28e4046fe,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ruffb2f56d2a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru949a5bb396,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud166aa5478,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru028bdc964b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruada6303aa8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9cc532528a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru45ca142b3a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru43c6db4e52,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc139eb015c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru42ceb9ca8d,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru6e1318d8a7,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru58fb5c68aa,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru4360567275,solo1,annotator1,True,True,True,val,True,RUHSOLD
+ru8b07393009,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7699c7bd7f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru453d4ee2d4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5cbc5d607e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru35d3bb15de,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rue373c4bf8f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9d9464bd14,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud287b28c66,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru303f4fbef0,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru8196c0ab8a,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rudf28d1b26f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud1dc723591,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru53cd86fa5a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc8603d7a8e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0e39e2ccc6,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru5ed5f7e633,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru47650f1978,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru25612e3c1d,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9d951c1c5a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue11a318ba3,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7d6e601f93,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru2e35fc4671,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru39b0e97280,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua77c724ce3,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru356ec7f381,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7c117808b9,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru101ed47aea,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6c2919e4b4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru26d80763b8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua68d62f9e4,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud3762344ae,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua43a47ba85,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru89a81fcd1d,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rua4ef8faf66,solo1,annotator1,True,False,True,train,True,RUHSOLD
+rudc4023825b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7a4b33e2d8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua4b688c882,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru79948852ed,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1a8acb6a55,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaaeb646032,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru84a9c64499,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua351a4c7e8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5e5e07cd9d,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru8ace8032da,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub586c28fb9,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru78b20f3971,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru55bcd41a15,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua4df314b01,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue5f655056f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf10c261906,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc60ecf7301,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rua3fd422aa6,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1d1737dd97,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru462dcc5aa8,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf52e54df5c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3728fd8527,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf0ab5e626a,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru81b4726d1c,solo1,annotator1,True,False,True,val,True,RUHSOLD
+rube74efec3b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufe04a31cd1,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru391392d30b,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruef1ab2c4db,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6e3265de4d,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc289f610b7,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru65e4e6bc18,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru12fada3068,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1d30669599,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6ce6abc77c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua491c34468,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0ad80e1d16,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ruabbb0ee2f4,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru81a830efce,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5ac139c49f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6c78fac2a2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru64b57d341f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1496e7c963,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2424490de1,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue9ca9ece9c,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru40d629545f,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru798f205d61,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue6ac88c997,solo1,annotator1,True,True,True,val,True,RUHSOLD
+ru85aab84c48,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3daee4fbfb,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru90ba8bd8c8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud3016951b0,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9e6640aba8,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue5b620e59d,solo1,annotator1,True,False,True,val,True,RUHSOLD
+ru56399964b2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2585a9f069,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2bfd632dec,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3ab39b8181,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8b6e0f0fdd,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3d3467f607,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5096b80438,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3001ada3ab,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc516558fbc,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru60e4b407c3,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru924c02789b,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6c21c8ad06,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf0ce761094,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru48161dde5e,solo1,annotator1,True,False,True,val,True,RUHSOLD
+ru30297ae5d9,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru17ea17524e,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru19af7ef230,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudfe8f7b8ba,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru19a1417541,solo1,annotator1,True,True,True,train,True,RUHSOLD
+rue26c17bff0,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru39f51365fd,solo1,annotator1,True,True,True,val,True,RUHSOLD
+rudd68d20f24,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0e1096be4c,solo1,annotator1,True,True,True,train,True,RUHSOLD
+ru908b6715d8,solo1,annotator1,True,False,True,train,True,RUHSOLD
+ru15c9e756b5,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28e74f02f6,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru93e2740de2,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9d0cdcae9a,solo1,annotator1,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9c4b99f5a1,solo1,annotator1,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru05ba05d11e,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1061c91eb0,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufaa569fedf,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruf80a5a67f3,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru31c938a0e1,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru27ba6ac225,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rub334213ccb,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru322d0f95d3,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru97a4ee6c50,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru52d11410c4,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8da3ae3ed7,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru576aad95b9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru146193a0cb,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruf71e4d59eb,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2a08f3ecd1,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru6a15f29014,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru23a8fd9e40,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5d3ebc791c,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru260cfc0ca7,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8253db5484,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru40d34f6ec5,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru99ee93acc6,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru53a2c85b34,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1e89ab049e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubb49d41364,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8d20d62504,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru6aaa4edd67,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru612392b2f2,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rufbabd275c8,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru35d7f3d9ac,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf90405663a,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3596820c0c,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rub9c3c0d5d9,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rufafedb634c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf6a865e684,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud8c9ec4371,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru22d49454ef,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4378327d70,solo2,annotator2,True,False,True,train,True,RUHSOLD
+rua4f6ddb527,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru9e7ce6c1f0,solo2,annotator2,True,True,True,val,True,RUHSOLD
+ru0006107e37,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru3823a9381f,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8ab4978683,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7befa5fdaf,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua429deb2a7,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rue646665636,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru69f4c256c9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru86c035a571,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru07087aa523,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru88bdd08382,solo2,annotator2,True,True,True,val,True,RUHSOLD
+rua0a81168ee,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud3ebd73a4e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9deeac3881,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2bf3af5604,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru4e00aadda9,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru609eb0cd90,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rue016241aaa,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru1199b91cce,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rud44efabd9b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc83e187742,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf54ede98d5,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8042fec610,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3162a6f90b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue7563509f6,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru66ed542c10,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf9bd9f7645,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0a9acee506,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru2b2f394a42,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5f15705d2f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4c1fd22921,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru267cc6e963,solo2,annotator2,True,False,True,val,True,RUHSOLD
+ru067c3b80fb,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru1293da3554,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc094ccf91e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1644100694,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rubbaa699e3d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua513fac570,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru44b802edfc,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua5938c196b,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru49d68e05cc,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0827e81232,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1f20d123d1,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru893ab0c69e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3b08a38ebb,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2a40bebd17,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub250c38d6d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9a5e40908d,solo2,annotator2,True,True,True,val,True,RUHSOLD
+ruc03037a681,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue40b148a11,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4adc4481f1,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1826497176,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rue338a55d5a,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue8b0114ec0,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruf7988438ec,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru1e50dce342,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud2b4a49696,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru829221beb0,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubd62a7ce7c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua905c53f24,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubdfb033ac9,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru80c1b9eb8d,solo2,annotator2,True,True,True,val,True,RUHSOLD
+ru1bb09d02b8,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucff6efb3c1,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rudc35888a69,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru25698d7841,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru67d35ffef2,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf51d53a770,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud82de5f585,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rube17e367f0,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruefb26785fd,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru492009a2ab,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0717947803,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru62dcd0c60e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruad5b462d85,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub7be153df8,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub3f3caa36f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucd471fdaa4,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4f5d1859ca,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubd1e7dc903,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru43779d25ba,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru06ffb8f3f9,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruf237915827,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf12f54db56,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud7fbcb9a4f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru074bc7594d,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rucd39359732,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru87acd806bc,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud68590fc02,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rua91734c76e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf3c04542d9,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru3f9fb84d10,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru97589017df,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucfe2475b7d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru532d59351c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua86268899e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru33ab1a9bb7,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf20f353d6f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru167bfc08ac,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru8965fa48c7,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruc4eda084f2,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufdaf594688,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue7dca8af28,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc35986e5d2,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru383982530b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4c8276eb95,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru429cf01640,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru709f1f0031,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3d551668ab,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru58c3e2bca6,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru56eafabdfa,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru135d9629da,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf69d3d93f1,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8d18cc6545,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4a676fc220,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4b164fb74f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru06e8d5e7e0,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue89d74d7e8,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru99dc3ff9da,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8b9c109d18,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru24a27ee924,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru324e834ef0,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruc6a83951fe,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru426a814e27,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueb7e95f189,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudb3685e8d9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc356208537,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub0ca7d44d4,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6d3797fb6e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru43dc6e9d4d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruecf0fd4b66,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3ba9c34367,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru3829d3b1c0,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc642551085,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru64b59638c9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru51d8f25aac,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufdcc24a335,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf8bc45481b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru43d53c197e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc5ae98bd8c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9a7de11b33,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue3944f4e0c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru62fed438df,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru525fcc24fa,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue4e9ce6c7a,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6bcfe58c29,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2a2f84d490,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub6b37d14c9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub79f44126c,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru74ea25c7aa,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6443081efc,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4be3ebe7b1,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru45f482a680,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru184824afd9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru42ec0cb2c0,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru10a35b3d62,solo2,annotator2,True,False,True,train,True,RUHSOLD
+rue40014ca1c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruad581d382d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubc28376ba3,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8e3c69dc64,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue900ba0725,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaf93ebf4e8,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6092161719,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub0ce080a1f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua7825c7c7b,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru8c8a841fd0,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufeac94a908,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0bd0bdd85b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru16bb27bd64,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua2ad760777,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru9b81897d06,solo2,annotator2,True,True,True,val,True,RUHSOLD
+ru3b47f5cddc,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7c761f79e3,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru45163fb642,solo2,annotator2,True,False,True,val,True,RUHSOLD
+ru3ef0803695,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2393ca0b1a,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9b4cec72e4,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucdba778df3,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufb623156b1,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru6a0fffce08,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rub9b27917f6,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru66a6f2e2ab,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru475d03840e,solo2,annotator2,True,False,True,train,True,RUHSOLD
+rub182566945,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc1443d8ecc,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru254a2db3a1,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru90f7888e7d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruab05e95e8c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2b2623b5cc,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua84def13c3,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1d882f1513,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua537d2db43,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6dd5c9b65f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc37303d6ef,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru981d04a0c9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru63d8551c62,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub83ebfcf30,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru1e71194256,solo2,annotator2,True,False,True,val,True,RUHSOLD
+ru7ff0f6362f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf6371a5a96,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2121068f0f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru88f882ad08,solo2,annotator2,True,False,True,train,True,RUHSOLD
+rud7147b4a0e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2adf09f04b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru70d4ad1bb2,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue374c39afa,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rub59975f330,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3d3a6c280b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7ad1eee42b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudde49dc32c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8f12e9ea79,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0a314f671f,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6fc7a28938,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf0ccbd6e7f,solo2,annotator2,True,True,True,val,True,RUHSOLD
+rua88253e303,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru25535af8ac,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru46dc342f71,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua55dc8cb15,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc19e0b2aaa,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru31ba4e1208,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3db3408be3,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru32edc335a6,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua9ed07b282,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru83bbe7d482,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru598d58be5c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru73c13439e3,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf890f324a5,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ru76c3650c35,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruf74560453d,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru60832f7403,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud1d3c46b7d,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru305f74831d,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rua57bf80331,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8906b08128,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru93ba4de118,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru848cafd89c,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rub9a2c7e89d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru882a964867,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruf06118d89e,solo2,annotator2,True,True,True,val,True,RUHSOLD
+rud392fc31f4,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rua523befa81,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28fb2a2f8e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2aa2170769,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8e8a9952d5,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6398a8e06c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf5db7ed2c6,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3b06a9af41,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubf2211f82a,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru15e0fc93f6,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruda3a6ea9f6,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru78feb9766a,solo2,annotator2,True,False,True,val,True,RUHSOLD
+ruf0374fb0bc,solo2,annotator2,True,False,True,train,True,RUHSOLD
+rue595009ef8,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rud6ba92488d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7bfb2d6ec9,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0d4ed66bba,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru52ecaa464c,solo2,annotator2,True,True,True,train,True,RUHSOLD
+rud36c3616d2,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue310a07258,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2a5a3a471e,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru05db7eb99a,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub5b1538160,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7ac1fc55e0,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru3d979884a3,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2c0cfd22c6,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru292f3f566d,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5975b316f1,solo2,annotator2,True,False,True,train,True,RUHSOLD
+ruf070b60be7,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru291c05a703,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru4e2b208189,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf3fb830866,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru129a3b76eb,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0a49210eb0,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruaed1c7938c,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc7ad4ac638,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruad703ad347,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru57b927e8fe,solo2,annotator2,True,False,True,val,True,RUHSOLD
+ru53c40fd2ba,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ru903a1eb3dc,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudcd087605c,solo2,annotator2,True,True,True,train,True,RUHSOLD
+ruc136b175dd,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue83d7bbcc2,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1179eebb13,solo2,annotator2,True,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua23f22ca46,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c4041c08b,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru89b7e372b4,solo2,annotator2,True,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub9da4b6813,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucb6acd8207,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru86ebe68a05,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+rue370e4edd6,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1403ad041e,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8a19a79bd4,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru70c3e2de5e,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3155d2737c,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ru9f5256ad83,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc4a864cbe1,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0be1f80e66,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru72fa32370c,mined_320,both-agree,False,False,True,val,True,RUHSOLD
+rucdec6d775e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufb95eaf66f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru284d11683e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue2f0b7e1bc,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+rud95f6b9e22,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueff4c44ec8,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru46148d5cc9,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru90532e9d61,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ru777d3ef624,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru83af57dd33,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud98bc7fede,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud3a9a44b08,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5bf482375e,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru494ac40657,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru267c21f6df,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua745ac2039,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru618c7f99bf,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc05889f88a,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc4ee4ec1aa,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruef6863e589,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf5b1732bcc,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru85211a3fdf,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru1b67351665,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4bb1358b4a,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1f14216166,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6e30298356,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0650e84e2e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaccf47eebe,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua995185041,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8c52962f5c,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+rucd1e657897,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru466616703e,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue44e2ac2fa,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru056d70f12d,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub592ec9417,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru95c4b91688,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue3a664b98c,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ru18ff1bd1ea,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue0b66e97c5,mined_320,both-agree,False,False,True,test,True,RUHSOLD
+ru812a9b5ead,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru76a7c912e4,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud18f3fde2c,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudb0e8db447,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6ca583495a,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua8117627a9,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3be07c0b6a,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0bce59b9ec,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4d84b09637,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf17b2a442b,mined_320,both-agree,False,True,True,test,True,RUHSOLD
+ru29795c6ddf,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+rud055b4c6d6,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubc370e18ff,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ru64b87f5881,mined_320,both-agree,False,True,True,test,True,RUHSOLD
+rubf887dfb4d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru65717659bc,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0ef9d19b7f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufae0283c67,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua86bbf293a,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueded6bf893,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8a6d4ba3c7,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc445ea34ea,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru26c99f95a8,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru113b76eadf,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudb60ea4495,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruddc29fca14,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3cde45e6dc,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+rufa352211a9,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7415f1430b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue1c88f5c0d,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru653fba5868,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubcbabb1992,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru603940180b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru987baaa8db,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudd60271e98,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3e07ee3593,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru45f446bd44,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub3874ffec5,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4be8bd4a3c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8aedac4886,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9fb1eb0bea,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru65d65fe9ea,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6704d0b65b,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9de794b72e,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru58f70c4dbd,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4b9c161141,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru372e4ba0dc,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4261a9e980,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru31508beda1,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc418ec88af,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufcbc557355,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5b90d63a13,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3cd89ebce8,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru66389fdaac,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rued71131479,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4e6fca5b72,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9bac0e418b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0234115148,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3dfeaa9c21,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruef63fbe5ed,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruace3b11f25,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucf1264218c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudbdee6c407,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru60579f1a2d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4584372bb0,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue82acb9b45,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru249614b260,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf1d177ff7d,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf67f9670d2,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru054e20ba60,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1746669db1,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud03e1528c1,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue67842569d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0ba1d92521,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru11a37c6913,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud81530f549,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0ec0f15d61,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru980a71caa0,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue383a6c677,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru53e09aefbe,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc0700bbb05,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru937a7997a4,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru173c693ac7,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru62f04f4f87,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucde372001d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru954dab14d4,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufbb43504ac,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua6b5e3cc21,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucdb84fc587,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru39d18311b0,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru1d6b63ce69,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru9cbc4c798c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9bfcc4315f,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6121e7d1bd,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua62dbae268,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c63d378cd,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5e3a7329dc,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru77ee44349e,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0594910038,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru85b5c80c1b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud8baaeb77d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruafe8a758d1,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8a3643c53c,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru936fc0d8e0,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru395e4c1dd6,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+rudbefa0678c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf7d8b32219,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7862e019d3,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc2b1f1c0b4,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8556030e9f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc1315979e1,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf204ec1bd7,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru335bfb0d2c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufd04042254,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru31192a9454,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru774eca5ce9,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc1400ebce1,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru61fa871fc3,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubd4953e31e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5c5e8ba86c,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3dbf7a152f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua15e7034ba,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucff44272a8,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0e10f9babc,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucb1f5cef86,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudebe01d447,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5539294a71,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3a8181c038,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6d0d4c7892,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucd26bf06dd,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru42e23d6b75,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3bed4cd9fe,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueef139fa92,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue6540c0bb8,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2694941f0c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruffa5c8dc5a,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2015a6173b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0cf3e32706,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru53264c9a1a,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9c7f6c0d39,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru166eb1f0a9,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ruaf4b14c98f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudcc314ecf8,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc52d42d777,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub03606a54f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7bc4acd724,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6b4b9a36ba,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruabbe12acda,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2ae4ec894e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc5f55769c2,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruffe8ba2110,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru736c6a24e5,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruca7048ac27,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruca11b651d1,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4fbda32c30,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9928bdc088,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru04ab28b5bb,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf51cb45624,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufa6d9fc369,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf2567b0237,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ruda1ca2110f,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5411f5d3ce,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0cb1cfb914,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2c79381e65,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru6dbded980d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubbe48b71ac,mined_320,both-agree,False,False,True,test,True,RUHSOLD
+ru1b3aba21d4,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ru9e14a8c507,mined_320,both-agree,False,True,True,test,True,RUHSOLD
+rufb97885e42,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru987aac8624,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7107c166a5,mined_320,both-agree,False,False,True,test,True,RUHSOLD
+ru74eef57af1,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru15eaa5be00,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5057849dcd,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+ru6a0b1caecd,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8e6c56536d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc38c71d59f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6936805aee,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7c437a459b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud3edfac130,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru90f0d38e98,mined_320,both-agree,False,True,True,test,True,RUHSOLD
+ru22e9fde894,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5eea089802,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru520d18687f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue700969184,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4c25014b46,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9ad208e115,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc9645d4f6e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru22f3f7148e,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru66c2f2a17b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub711a60c33,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1c64000ec6,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruea02446e71,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6eacc563c3,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28ecd15b44,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru00e1412589,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3f2724c20a,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaee060028e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5e3809cf59,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rude6a7085fc,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc9dc3fca7c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru94e6270434,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3443ed716f,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru330dd86e47,mined_320,both-agree,False,True,True,train,True,RUHSOLD
+ru1e70add771,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc7e18ed5f6,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2074b27ab6,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru62341a45b0,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua7ac481201,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9ab70ac489,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5970760db9,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0fd966afb4,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru32c80c9764,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1a3f4256a3,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+rub52c656e91,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru71a9156ca5,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8b86312843,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru36af88aa10,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua8c98ab4e3,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5da47af87b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8d37cd366b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7d889f8dd1,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru17a4599b9b,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru08273f4849,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua404a2b2f0,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc2d8215fda,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2ee254e8a8,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru79f0b48837,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf622aa34de,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucdba365ba6,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua32bc4b29d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5188c17c56,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru60a7ebd372,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4fcf166eb0,mined_320,both-agree,False,True,True,test,True,RUHSOLD
+ru93f886a84f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub10390a2a9,mined_320,both-agree,False,False,True,train,True,RUHSOLD
+rue345d6b23f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru402c7c806d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru77ceeaeed3,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru470191f311,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua92086ef4e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc764bc42ba,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru49e02babb6,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5c3e429e8c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue1c7812893,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub7e7360dff,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru24b4c77be7,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru543bf12a5e,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5e85ac7589,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3df53b071f,mined_320,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rucc2fadf97d,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud0d212363c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8483c0a80c,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8ef09eba34,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru88df3e90c6,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0530aae474,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3ef399da78,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru874c57c874,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru55169bf66f,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud606e638c3,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc8c7658840,mined_320,both-agree,False,True,True,test,True,RUHSOLD
+rua07a79173a,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5b60a29f09,mined_320,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru348b776e65,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4e46df9688,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf28fa5e3f5,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua926925e17,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruea81378308,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru620bfd38fd,mined_320,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru64f0714c07,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0426e82f17,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4777c0bfa3,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+rued78fff7f6,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4f895b19c4,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3d498bfee3,solo2_200_relabelled,both-agree,False,False,True,train,True,RUHSOLD
+ru1b3b1114c8,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru90e719a1c5,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru82a5015c90,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2a1b2881eb,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4600e3e87f,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5b926976d1,solo2_200_relabelled,both-agree,False,True,True,val,True,RUHSOLD
+ru9651dffee5,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaacbfb8908,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru88859ba779,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3824368fa9,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru674a7ed0e5,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1df47dd235,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudd173bb3cd,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru89efd2cf62,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud659518e8e,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru280adb3738,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7896fc4b75,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1dea069425,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud683befe78,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2f0fb8373c,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru934cd9b23f,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruedc0e86a8c,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3134033638,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru82c7f12e8c,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+ru6a98a6941c,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rued8583b2b9,solo2_200_relabelled,both-agree,False,False,True,train,True,RUHSOLD
+ruaee58e7de8,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1228a4b884,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud9da97936e,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8256f82142,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub188469fb9,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru74918f43f2,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub32c7fddad,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru08fa724b11,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3da57a2129,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4eb354b70f,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru607a4984dc,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru081c87e476,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudd33128e2e,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1dc5e275e7,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7e71809363,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0966e2e85d,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6ab048ad9c,solo2_200_relabelled,both-agree,False,False,True,train,True,RUHSOLD
+ru713e526873,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8d38ee7e2c,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9bdc2ab970,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0c0413f70f,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1dab3d8ea2,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+ru89e28562d8,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2f0214beed,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru87f9ad317d,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub8a8975661,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3943fcc495,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6763ccb1c4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua74a756288,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubdf1ff0638,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9a934ae07f,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc78eeb6328,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7eda4951a3,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru12c904819a,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua6c7ef902e,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua3e846a389,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru819d22c470,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub56229b0d9,solo2_200_relabelled,both-agree,False,False,True,train,True,RUHSOLD
+ru8cf802b58b,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub9a382ad80,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru772413ddb2,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru99cb9b8432,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9ac02d17df,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru30f208263e,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudcda23d1c2,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue6997741bd,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7f2a57200c,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru11ef23b4ac,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc83dbbf8e4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue0fd234184,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudb87078385,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru33786bc244,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru22456d3deb,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf24c8a4493,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru71e27a3f86,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28d2892dc4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4282dc01d2,solo2_200_relabelled,both-agree,False,False,True,val,True,RUHSOLD
+rue7c40e40ae,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru33951ca2ab,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+ruf75d9ff5b0,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1d6cea85b6,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubb6b8d4af1,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9c5488fa1b,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue58bf4236b,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3806286173,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7a0ca247a2,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru816a943747,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3a97250469,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru11e12dadf4,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru72f08dd721,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue02350a3e4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2f5714fd34,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru578fe3887a,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc28f5c4304,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubf6d9f0dc6,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5ac9186991,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4b8fe7373d,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru218298a5ab,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruaecd1a8da6,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc0d190dba5,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud9cb699b09,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruee67bff0a4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruccc0730a12,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub047b848b3,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufe56338e93,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0e60e9baec,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua9b2ff9044,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3b9a921fa1,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru00aa028805,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru256bb6416b,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruce223badf8,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1bc2625f11,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru28f0ced327,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru65db51f277,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1294d54b92,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rueab802a3b2,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru916d85cea3,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru00527ef8a6,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru569eaf9a9d,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudbcfd6e978,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru83d1f5383b,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5cfb1d6b08,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7ab783c4a3,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru31fe635f5d,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf36ce57a49,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru04379b10fd,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru9f4848c051,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rue14afcd65b,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru1320255d13,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0ca7de9dc6,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru2e097a2e75,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+ru606414faa1,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8e75444149,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru6b919eaa98,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru923ef11823,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru94e03145af,solo2_200_relabelled,both-agree,False,False,True,train,True,RUHSOLD
+ru9c855f214a,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc1a904743d,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru7e7d895f07,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5b8cb22b19,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4ee1b780f6,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua6ef789e4a,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru95e3434cc4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru182824d858,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru47b0b9ce93,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8b01c57a38,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru29ed1edc6a,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru613edd2060,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua3141f641c,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruee13f88ddb,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0cb7dbc4ab,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruba3bb1fbb5,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru136e544c76,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru966e84601a,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru36b6318e55,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3ab3d5d68f,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua7eb4bb196,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru060492a2b1,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5ffde9130d,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3c78837fa5,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruc352abc620,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru94797ff1e7,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rudeafee9679,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua1177f8d0f,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru4590984033,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua8133bc86b,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua6e39efc19,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru53c2813bb0,solo2_200_relabelled,both-agree,False,False,True,val,True,RUHSOLD
+ru25fc369ac2,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rua5d2da6021,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+rub152026c3a,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf90a144f3c,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub46f17703d,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0c994dc766,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rud1b2fe1499,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rub5ce99b73c,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5586a9d4b2,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rufa74ac7ea9,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru097faec5d0,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru0baa5b2c8a,solo2_200_relabelled,both-agree,False,False,True,test,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru5b01862cb1,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru3cc12e9ab2,solo2_200_relabelled,both-agree,False,False,True,val,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru47ea47f9f2,solo2_200_relabelled,both-agree,False,False,True,train,True,RUHSOLD
+ru723a2947d4,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ru8c2332f81f,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+rubf9e19cb8d,solo2_200_relabelled,both-agree,False,True,True,train,True,RUHSOLD
+rua718df06a2,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)
+ruf79391ac34,solo2_200_relabelled,both-agree,False,False,True,train,False,not RUHSOLD (presumed RU-HSD-30K; unverified)

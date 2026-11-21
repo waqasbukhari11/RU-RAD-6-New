@@ -1,0 +1,13 @@
+batch,n_joined,indicator,a1_pos,a2_pos,disagreements
+canonical_350,351,ig_outgroup,45,46,2
+canonical_350,351,dehumanization,5,6,2
+canonical_350,351,grievance,25,24,2
+canonical_350,351,glorification,4,5,2
+canonical_350,351,mobilization,13,15,3
+canonical_350,351,threat,5,6,2
+mining_320,320,ig_outgroup,34,37,7
+mining_320,320,dehumanization,5,5,8
+mining_320,320,grievance,25,11,16
+mining_320,320,glorification,5,3,6
+mining_320,320,mobilization,11,20,11
+mining_320,320,threat,14,15,3
